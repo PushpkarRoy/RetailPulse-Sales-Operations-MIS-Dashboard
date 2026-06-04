@@ -17,7 +17,7 @@
 |---|---| 
 | 📍 HQ | Indore, Madhya Pradesh |
 | 🏙️ Cities Served | Indore, Bhopal, Delhi, Mumbai |       
-| 🛍️ Categories | Electronics, Clothing, Grocery |
+| 🛍️ Categories | Electronics, Clothing, Grocery |   
 | 📦 Total Transactions | 10,000 |
 | 💰 Gross Revenue | ₹12.07 Cr |
 
