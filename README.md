@@ -15,7 +15,7 @@
                  
 | Detail | Info |   
 |---|---|      
-| 📍 HQ | Indore, Madhya Pradesh |
+| 📍 HQ | Indore, Madhya Pradesh |   
 | 🏙️ Cities Served | Indore, Bhopal, Delhi, Mumbai |       
 | 🛍️ Categories | Electronics, Clothing, Grocery |           
 | 📦 Total Transactions | 10,000 |
