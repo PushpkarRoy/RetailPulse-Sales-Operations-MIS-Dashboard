@@ -14,7 +14,7 @@
 **RetailPulse Solutions** is a regional retail startup headquartered in **Indore, Madhya Pradesh**. The company manages multi-branch operations across MP and New Delhi, specializing in high-volume consumer goods across three major categories.
                  
 | Detail | Info |   
-|---|---|      
+|---|---|           
 | 📍 HQ | Indore, Madhya Pradesh |   
 | 🏙️ Cities Served | Indore, Bhopal, Delhi, Mumbai |       
 | 🛍️ Categories | Electronics, Clothing, Grocery |           
